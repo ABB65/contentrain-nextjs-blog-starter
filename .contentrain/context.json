@@ -1,0 +1,19 @@
+{
+  "lastOperation": {
+    "locale": "tr",
+    "model": "",
+    "source": "mcp-studio",
+    "timestamp": "2026-03-20T17:48:10.168Z",
+    "tool": "init_project"
+  },
+  "stats": {
+    "entries": 0,
+    "lastSync": "2026-03-20T17:48:10.169Z",
+    "locales": [
+      "tr",
+      "en"
+    ],
+    "models": 2
+  },
+  "version": "1"
+}
