@@ -1,0 +1,28 @@
+{
+  "domain": "marketing",
+  "fields": {
+    "ctaText": {
+      "type": "text"
+    },
+    "ctaUrl": {
+      "type": "text"
+    },
+    "description": {
+      "type": "textarea"
+    },
+    "image": {
+      "type": "media"
+    },
+    "subtitle": {
+      "type": "text"
+    },
+    "title": {
+      "required": true,
+      "type": "text"
+    }
+  },
+  "i18n": true,
+  "id": "hero",
+  "kind": "singleton",
+  "name": "Hero Section"
+}

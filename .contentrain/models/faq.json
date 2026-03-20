@@ -1,0 +1,23 @@
+{
+  "domain": "marketing",
+  "fields": {
+    "answer": {
+      "required": true,
+      "type": "textarea"
+    },
+    "category": {
+      "type": "text"
+    },
+    "order": {
+      "type": "number"
+    },
+    "question": {
+      "required": true,
+      "type": "text"
+    }
+  },
+  "i18n": true,
+  "id": "faq",
+  "kind": "collection",
+  "name": "FAQ"
+}

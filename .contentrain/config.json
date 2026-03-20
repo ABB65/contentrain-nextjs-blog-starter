@@ -1,0 +1,15 @@
+{
+  "domains": [
+    "marketing"
+  ],
+  "locales": {
+    "default": "tr",
+    "supported": [
+      "tr",
+      "en"
+    ]
+  },
+  "stack": "next",
+  "version": 1,
+  "workflow": "auto-merge"
+}
