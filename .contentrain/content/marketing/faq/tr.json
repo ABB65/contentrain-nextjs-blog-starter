@@ -22,11 +22,5 @@
     "category": "Destek",
     "order": 4,
     "question": "Teknik destek nasıl çalışıyor?"
-  },
-  "e5f6g7h8i9j0": {
-    "answer": "End-to-end şifreleme, güvenli sunucular ve güncel güvenlik protokolleri kullanıyoruz. KVKK ve uluslararası güvenlik standartlarına tam uyumluyuz.",
-    "category": "Güvenlik",
-    "order": 5,
-    "question": "Güvenlik nasıl sağlanıyor?"
   }
 }
