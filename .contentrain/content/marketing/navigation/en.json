@@ -1,0 +1,23 @@
+{
+  "4a8e9f2d1c3b": {
+    "description": "Main homepage of the website",
+    "icon": "ri-home-line",
+    "label": "Home",
+    "order": 1,
+    "url": "/"
+  },
+  "7b3d8e1f9a2c": {
+    "description": "Our services and solutions",
+    "icon": "ri-service-line",
+    "label": "Services",
+    "order": 2,
+    "url": "/services"
+  },
+  "9c2f4a6e8b1d": {
+    "description": "Information about our company",
+    "icon": "ri-information-line",
+    "label": "About Us",
+    "order": 3,
+    "url": "/about"
+  }
+}
