@@ -1,0 +1,23 @@
+{
+  "a1b2c3d4e5f6": {
+    "description": "Anasayfamıza hoş geldiniz",
+    "icon": "ri-home-line",
+    "label": "Ana Sayfa",
+    "order": 1,
+    "url": "/"
+  },
+  "b2c3d4e5f6a7": {
+    "description": "Sunduğumuz hizmetler hakkında bilgi alın",
+    "icon": "ri-service-line",
+    "label": "Hizmetler",
+    "order": 2,
+    "url": "/hizmetler"
+  },
+  "c3d4e5f6a7b8": {
+    "description": "Şirketimiz ve ekibimiz hakkında bilgi edinin",
+    "icon": "ri-information-line",
+    "label": "Hakkımızda",
+    "order": 3,
+    "url": "/hakkimizda"
+  }
+}
