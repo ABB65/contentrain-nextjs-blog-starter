@@ -1,0 +1,26 @@
+{
+  "domain": "marketing",
+  "fields": {
+    "description": {
+      "type": "text"
+    },
+    "icon": {
+      "type": "text"
+    },
+    "label": {
+      "required": true,
+      "type": "text"
+    },
+    "order": {
+      "type": "number"
+    },
+    "url": {
+      "required": true,
+      "type": "text"
+    }
+  },
+  "i18n": true,
+  "id": "navigation",
+  "kind": "collection",
+  "name": "Navigation"
+}
