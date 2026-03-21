@@ -1,19 +1,22 @@
 {
   "lastOperation": {
+    "entries": [
+      "a1b2c3d4e5f6"
+    ],
     "locale": "tr",
-    "model": "",
+    "model": "faq",
     "source": "mcp-studio",
-    "timestamp": "2026-03-20T17:48:10.168Z",
-    "tool": "init_project"
+    "timestamp": "2026-03-21T19:31:20.562Z",
+    "tool": "save_content"
   },
   "stats": {
     "entries": 0,
-    "lastSync": "2026-03-20T17:48:10.169Z",
+    "lastSync": "2026-03-21T19:31:20.562Z",
     "locales": [
       "tr",
       "en"
     ],
-    "models": 2
+    "models": 3
   },
   "version": "1"
 }
