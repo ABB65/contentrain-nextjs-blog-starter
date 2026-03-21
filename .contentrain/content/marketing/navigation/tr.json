@@ -1,1 +1,17 @@
-{}
+{
+  "a1b2c3d4e5f6": {
+    "label": "Ana Sayfa",
+    "order": 1,
+    "url": "/"
+  },
+  "g7h8i9j0k1l2": {
+    "label": "Hakkımızda",
+    "order": 2,
+    "url": "/hakkimizda"
+  },
+  "m3n4o5p6q7r8": {
+    "label": "İletişim",
+    "order": 3,
+    "url": "/iletisim"
+  }
+}
