@@ -1,9 +1,9 @@
 {
   "a1b2c3d4e5f6": {
-    "answer": "Bu sorunun cevabı burada yer alacaktır.",
-    "category": "Süreç",
+    "answer": "Ödeme işlemlerini kredi kartı, banka kartı veya havale yoluyla gerçekleştirebilirsiniz. Tüm ödemeler güvenli SSL şifrelemesi ile korunmaktadır. Sipariş teslim alındıktan sonra 14 gün içinde iade hakkınız bulunmaktadır.",
+    "category": "Ödeme",
     "order": 1,
-    "question": "Sık sorulan soru"
+    "question": "Ödeme koşulları nelerdir?"
   },
   "b2c3d4e5f6g7": {
     "answer": "E-ticaret, finans, sağlık, eğitim, lojistik ve üretim başta olmak üzere tüm sektörlerde hizmet veriyoruz. Her sektöre özel çözümler geliştiriyoruz.",
